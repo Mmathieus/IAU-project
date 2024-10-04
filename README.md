@@ -1,0 +1,1 @@
+# V `dataset82_edited` sú upravené dáta
