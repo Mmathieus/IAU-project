@@ -1,1 +1,1 @@
-# V `dataset82_edited` sú upravené dáta
+# V `dataset82_edited` výsledok `EDA`.
